@@ -26,14 +26,6 @@ Easy work in the simplest reskin. you can then generate your APK within a day. f
   </p>
 <p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
 
- <p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="" />
-    </a>
-  </p>
-
-
-
 <p align="center">
     <a href="">
       <img src="https://github.com/OmaPrakash/candy_classic_puzzle_game/assets/118904953/ce5edb7c-661c-4b40-aca4-245caee55fbf" width="300"/>

@@ -1,0 +1,24 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,height=device-height initial-scale=1, maximum-scale=1, user-scalable=0, minimal-ui" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link rel="stylesheet" type="text/css" href="game.css">
+</head>
+
+<body onload="setTimeout(window.scrollTo(0,1),1);">
+    <div id="ajaxbar">
+        <div id="game"><canvas id="canvas"></canvas></div>
+        <div id="orientate"><img src="images/landscape.png" /></div>
+        <div id="play" class="play" onclick=""><img src="images/background-cover.png" /></div>
+    </div>
+	<script src="lib/jquery.js"></script>
+	<script src="lib/jukebox.js"></script>
+	<script src="levels.js"></script>
+	<script src="lang.js"></script>
+	<script src="game.js"></script>
+	<script src="hooks.js"></script>
+</body>
+
+</html>
